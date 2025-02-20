@@ -54,7 +54,7 @@ const About = () => {
         real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
 
-      <div className='mt-20 flex flex-wrap gap-10 mx-auto items-center'>
+      <div className='mt-20 flex flex-wrap gap-10 w-full justify-center items-center'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}

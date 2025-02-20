@@ -19,7 +19,7 @@ const Contact = () => {
           Contact.
         </h2>
       </motion.div>
-    <div className='text-center leading-[4rem] py-10'>
+    <div className='text-center leading-[4rem] md:py-10 py-5'>
         <h2 className={`${styles.heroSubText} text-center`}>
           DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL.
         </h2>

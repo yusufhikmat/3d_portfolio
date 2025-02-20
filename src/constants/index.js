@@ -144,31 +144,31 @@ const experiences = [
 
   
 const projects = [
-  {
-    name: "Jimmy",
-    description:
-      "eCommerce clothing website.",
-    tags: [
-      {
-        name: "Nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Reactjs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "ant design",
-        color: "violet-text-gradient",
-      },
-    ],
-    image:"https://plus.unsplash.com/premium_photo-1664202526047-405824c633e7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHNob3BwaW5nfGVufDB8fDB8fHww",
-    live_link: "https://dev.jimmystickman.com/",
-  },
+  // {
+  //   name: "Jimmy",
+  //   description:
+  //     "eCommerce clothing website.",
+  //   tags: [
+  //     {
+  //       name: "Nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Reactjs",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "ant design",
+  //       color: "violet-text-gradient",
+  //     },
+  //   ],
+  //   image:"https://plus.unsplash.com/premium_photo-1664202526047-405824c633e7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHNob3BwaW5nfGVufDB8fDB8fHww",
+  //   live_link: "https://dev.jimmystickman.com/",
+  // },
     {
       name: "Pursfinace",
       description:
